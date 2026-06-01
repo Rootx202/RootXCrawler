@@ -2,14 +2,14 @@
 
 **RootXCrawler** is a powerful web crawler and security scanner designed for deep website reconnaissance, penetration testing, and security auditing.
 
-> ______            _  __   _______                    _           
-| ___ \          | | \ \ / /  __ \                  | |          
-| |_/ /___   ___ | |_ \ V /| /  \/_ __ __ ___      _| | ___ _ __ 
+```text
+______            _  __   _______                    _
+| ___ \          | | \ \ / /  __ \                  | |
+| |_/ /___   ___ | |_ \ V /| /  \/_ __ __ ___      _| | ___ _ __
 |    // _ \ / _ \| __|/   \| |   | '__/ _` \ \ /\ / / |/ _ \ '__|
-| |\ \ (_) | (_) | |_/ /^\ \ \__/\ | | (_| |\ V  V /| |  __/ |   
-\_| \_\___/ \___/ \__\/   \/\____/_|  \__,_| \_/\_/ |_|\___|_|   
-          
-
+| |\ \ (_) | (_) | |_/ /^\ \ \__/\ | | (_| |\ V  V /| |  __/ |
+\_| \_\___/ \___/ \__\/   \/\____/_|  \__,_| \_/\_/ |_|\___|_|
+```
 ## Features
 
 - **Deep Web Crawling** — Multi-threaded crawling with configurable depth, delay, and concurrency
